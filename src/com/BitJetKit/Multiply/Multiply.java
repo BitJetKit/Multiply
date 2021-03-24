@@ -26,7 +26,7 @@ public class Multiply {
 		product = number1 + number2;
 	}
 	public void printProduct() {
-		System.out.println("1st number = " + number1 + " 2nd number = " + number2 + " product = " + product);
+		System.out.println("1st number = " + number1 + " 2nd number = " + number2 + " Product = " + product);
 	}
 	@Override
 	public int hashCode() {
